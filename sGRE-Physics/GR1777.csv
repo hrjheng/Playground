@@ -1,0 +1,101 @@
+Question,Percentile,Subject_type
+1,92,Mechanics
+2,41,Mechanics
+3,70,Mechanics
+4,64,Electromagnetism
+5,30,Electromagnetism
+6,47,Electromagnetism
+7,59,Thermodynamics and statistical mechanics
+8,64,Thermodynamics and statistical mechanics
+9,91,Thermodynamics and statistical mechanics
+10,59,Atomic physics
+11,41,Specialized topics - nuclear physics
+12,79,Quantum mechanics
+13,77,Quantum mechanics
+14,76,Lab methods
+15,48,Optics and wave
+16,53,Optics and wave
+17,74,Mechanics
+18,34,Mechanics
+19,70,Mechanics
+20,60,Electromagnetism
+21,43,Electromagnetism
+22,49,Atomic physics
+23,50,Atomic physics
+24,31,Atomic physics
+25,51,Quantum mechanics
+26,66,Quantum mechanics
+27,71,Specialized topics - nuclear physics
+28,47,Thermodynamics and statistical mechanics
+29,63,Thermodynamics and statistical mechanics
+30,32,Optics and wave
+31,32,Optics and wave
+32,39,Optics and wave
+33,23,Lab methods
+34,82,Special relativity
+35,53,Special relativity
+36,56,Special relativity
+37,52,Electromagnetism
+38,24,Electromagnetism
+39,86,Mechanics
+40,23,Electromagnetism
+41,28,Lab methods
+42,44,Lab methods
+43,41,Quantum mechanics
+44,85,Quantum mechanics
+45,37,Quantum mechanics
+46,76,Mechanics
+47,53,Mechanics
+48,52,Mechanics
+49,49,Mechanics
+50,30,Optics and wave
+51,33,Optics and wave
+52,29,Optics and wave
+53,39,Special relativity
+54,56,Lab methods
+55,45,Specialized topics - mathematical method
+56,64,Thermodynamics and statistical mechanics
+57,46,Thermodynamics and statistical mechanics
+58,69,Thermodynamics and statistical mechanics
+59,20,Atomic physics
+60,57,Atomic physics
+61,50,Quantum mechanics
+62,36,Quantum mechanics
+63,63,Quantum mechanics
+64,78,Mechanics
+65,43,Mechanics
+66,52,Mechanics
+67,77,Mechanics
+68,71,Electromagnetism
+69,52,Electromagnetism
+70,43,Quantum mechanics
+71,32,Quantum mechanics
+72,49,Specialized topics - nuclear physics
+73,74,Specialized topics - particle physics
+74,53,Specialized topics - particle physics
+75,19,Specialized topics - solid state
+76,74,Electromagnetism
+77,43,Electromagnetism
+78,41,Electromagnetism
+79,54,Mechanics
+80,26,Mechanics
+81,20,Optics and wave
+82,59,Optics and wave
+83,25,Mechanics
+84,55,Special relativity
+85,38,Special relativity
+86,50,Specialized topics - solid state
+87,66,Mechanics
+88,44,Mechanics
+89,47,Mechanics
+90,70,Mechanics
+91,25,Thermodynamics and statistical mechanics
+92,55,Quantum mechanics
+93,70,Special relativity
+94,24,Electromagnetism
+95,22,Electromagnetism
+96,34,Electromagnetism
+97,52,Mechanics
+98,22,Specialized topics - solid state
+99,48,Quantum mechanics
+100,21,Specialized topics - nuclear physics
